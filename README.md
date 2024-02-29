@@ -19,4 +19,4 @@ AOS Animate
  Efeitos com a propriedade transform do css
 
 
-#https://tryzwk.github.io/WebSite_TokyoGhoul/index.html
+#https://trywxyz.github.io/WebSite_TokyoGhoul/index.html
